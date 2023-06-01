@@ -4,4 +4,4 @@ $\text{«Технологии анализа данных и машинного 
 
 > $\text{Вид исследуемых данных: котировки акций компаний, входящие в индекс NASDAQ-100}$
 
-### Полная версия работы: [CourseWork.docx](https://github.com/m1157/FinU/files/11211697/_.pptx)
+### Полная версия работы: [CourseWork.docx](https://github.com/m1157/FinU/files/11628629/_3_.docx)
